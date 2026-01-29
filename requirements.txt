@@ -1,0 +1,8 @@
+streamlit
+joblib
+pandas
+numpy
+scikit-learn
+lightgbm        # ← 必须加
+shap
+matplotlib
